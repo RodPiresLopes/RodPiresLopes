@@ -7,6 +7,9 @@ Profissional com mais de 4 anos de experiência em Análise de Dados e BI, com f
 Em constante aprendizado e evolução na área de dados e buscando, a cada dia, evoluir como ser humano. 
 Apaixonado por viagens, cozinhar e animais.
 
+Aqui você vai encontrar análises que eu faço para estudo, melhorar meus códigos, testar ferramentas e praticar análise e ciência de dados. 
+São projetos exploratórios e experimentos contínuos no universo dos dados.
+
 ---
 ### 🤖 Linguagens e Tecnologias
 
