@@ -1,13 +1,17 @@
-# 👩🏻‍💻 Rodrigo Pires Lopes
+# 👨🏼‍🦲 Rodrigo Pires Lopes
 
 **`Analista de dados`** 
 
-Oi, eu sou o Rodrigo, tenho 38 anos e sou natural de São paulo. Sou formado em Análise e Desenvolvimento de Sistemas e estou cursando Data Science e Analytics na USP/Esalq. 
-Profissional com mais de 4 anos de experiência em Análise de Dados e BI, com forte atuação nas áreas de Prevenção a Fraudes, Produtos, Risco, Cobrança e Performance. 
-Em constante aprendizado e evolução na área de dados e buscando, a cada dia, evoluir como ser humano. 
+Oi, eu sou o Rodrigo, tenho 38 anos e sou natural de São paulo. Sou formado em Análise e Desenvolvimento de Sistemas e estou cursando Data Science e Analytics na USP/Esalq.
+
+Profissional com mais de 4 anos de experiência em Análise de Dados e BI, com forte atuação nas áreas de Prevenção a Fraudes, Produtos, Risco, Cobrança e Performance.
+
+Em constante aprendizado e evolução na área de dados e buscando, a cada dia, evoluir como ser humano.
+
 Apaixonado por viagens, cozinhar e animais.
 
-Aqui você vai encontrar análises que eu faço para estudo, melhorar meus códigos, testar ferramentas e praticar análise e ciência de dados. 
+Aqui você vai encontrar estudos que realizo para melhorar meus códigos, testar ferramentas e praticar análise e ciência de dados.
+
 São projetos exploratórios e experimentos contínuos no universo dos dados.
 
   ##
