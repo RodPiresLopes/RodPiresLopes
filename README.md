@@ -1,4 +1,4 @@
-# 👨🏼‍🦲 Rodrigo Pires Lopes
+# Rodrigo Pires Lopes
 
 **`Analista de dados`** 
 
